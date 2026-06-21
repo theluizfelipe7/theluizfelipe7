@@ -2,16 +2,13 @@
 
 <br>
 
-<div align="center">
-  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
-</div>
 
 <div align="center">
   
   <b>`プ ロ グ ラ マ`</b>
   <samp>
       <br>
-      Hi there! I'm <b>Kamilly Medino</b>
+      Hi there! I'm <b>Luiz Felipe</b>
   </samp>
 </div>
 
@@ -23,19 +20,72 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
+  <img src="https://img.shields.io/badge/BADxp-black" />
 </div>
       
 <br>
 <br>
+
+
+
+
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/theluizfelipe7">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BADxp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/theluizfelipe7">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theluizfelipe7&layout=compact&langs_count=6&theme=tokyonight"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+###
+
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVkZHk1ZXV6aDd4MXl6a3AwY2RuY3h5cXk0dWhkdnJqbG9zY3M2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"  />
+
+### 🛠️ Technologies and Skills
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+</div>
+
+###
+
+<div> 
+  <a href="mailto:theluizfelipe7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in//](https://www.linkedin.com/in/luiz-felipe-4913763b0?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
+</picture>
+
       
-<div align="center">
+<!-- <div align="center">
   <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=kamillyvm&rank_icon=github&show_icons=true&theme=radical&count_private=true">
   <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&theme=radical&count_private=true">
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=radical"/>
-</div>
+</div> -->
 
-<div align="center" style="display: inline_block"><br>
+<!-- <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
@@ -49,12 +99,12 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
   
-</div>
+</div> -->
 
 <br>
 <br>
 
-<details align="center">  
+<!-- <details align="center">  
   <summary>
       <samp>
         <b>More Info</b>
@@ -65,9 +115,9 @@
 
 ##
 
-<br>
+<br> -->
 
-<div align="center">
+<!-- <div align="center">
   <samp>
     <b>
       Contact me:
@@ -80,9 +130,9 @@
   [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/km.medino/?next=%2F)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
   
-</div>
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
   <p align="center">
       <samp>
         ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
@@ -99,12 +149,12 @@
 ##
 
 <br>
-
+-->
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=8f2c5b" /></p> 
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=theluizfelipe7&style=flat-square&color=8f2c5b" /></p> 
 </div>
 
-<br>
+<br> 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=footer"/>
 
