@@ -71,13 +71,13 @@
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
+<div align="center">
+<picture >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theluizfelipe7/theluizfelipe7/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theluizfelipe7/theluizfelipe7/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/theluizfelipe7theluizfelipe7/output/github-snake.svg" />
 </picture>
-
+</div>
       
 <!-- <div align="center">
   <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=kamillyvm&rank_icon=github&show_icons=true&theme=radical&count_private=true">
@@ -150,11 +150,13 @@
 
 <br>
 -->
-<div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=theluizfelipe7&style=flat-square&color=8f2c5b" /></p> 
-</div>
+
 
 <br> 
+
+<br>
+
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=footer"/>
 
